@@ -9,5 +9,5 @@ Ready to apply skills as part of a quality-driven team to craft products which p
 - 🔭 I’m currently working on: Making a 3d Portfolio page using Three.js and Ammo.js
 - 🌱 I’m currently learning: Redux and How to apply for jobs!
 - 👯 I’m looking to collaborate on: anything involving 3d graphics and physics
-- 📫 How to reach me: rob@robperez.net
+- 📫 How to reach me: rob@robperez.net or through my porfolio page www.robperez.net
 
