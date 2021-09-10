@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-If you dedicate the majority of your time and effort to something, it is amazing what you can accomplish in a short amount of time.
+It's amazing what you can accomplish in a short amount of time with passion and wit.
 
 I'm a full-stack developer with a background in research-oriented psychology and a passion for creating engaging, well-crafted, and interactive pages/applications. Known as a critical thinker, insightful contributor, and one who works well with and motivates members of project teams. I am well versed in using a variety of technologies to efficiently solve problems and enhance user experiences through refined functionality and detail-oriented design. Able to rapidly learn and implement new technologies and adapt to the demands of any project. 
 
