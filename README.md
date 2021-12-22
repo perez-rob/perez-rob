@@ -5,7 +5,7 @@ I'm a full-stack developer with a background in research-oriented psychology and
 Ready to apply skills as part of a quality-driven team to craft products which people are delighted to use and leave them with an indelible positive impression of the organization those products represent.
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=perez-rob&show_icons=true&count_private=true&theme=synthwave" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=perez-rob&show_icons=false&count_private=false&theme=synthwave" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=perez-rob&layout=compact&show_icons=true&count_private=true&theme=synthwave"/>
 </p>
 
